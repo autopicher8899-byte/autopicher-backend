@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jb_1",
+    "title": "Frontend Engineer (React)",
+    "company": "Acme Corp",
+    "location": "Remote",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "postedAt": "2025-11-07T10:00:00.000Z",
+    "url": "https://example.com/apply/frontend",
+    "source": "sample"
+  },
+  {
+    "id": "jb_2",
+    "title": "Data Analyst",
+    "company": "Globex",
+    "location": "UK (Hybrid)",
+    "tags": ["SQL", "Python", "BI"],
+    "postedAt": "2025-11-08T08:30:00.000Z",
+    "url": "https://example.com/apply/analyst",
+    "source": "sample"
+  }
+]
